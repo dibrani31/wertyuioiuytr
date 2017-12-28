@@ -1,0 +1,5 @@
+
+#EXTM3U
+#EXTINF:-1,AL: KLAN Plus
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/600.m3u8$http-refferer=http://localhost
+
