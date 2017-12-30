@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1,Premium Calcio 4
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/791.m3u8$http-refferer=http://localhost
+

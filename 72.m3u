@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1,Inter Channel
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/835.m3u8$http-refferer=http://localhost
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1,Premium Comedy
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/842.m3u8$http-refferer=http://localhost
+
