@@ -1,5 +1,3 @@
-
-#EXTM3U
-#EXTINF:-1,AL: KLAN Plus
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/600.m3u8$http-refferer=http://localhost
+#EXTINF:-1 tvg-logo="", Klan Plus
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHTVHGJBA4cAAFWRRUdIC5sYRlECoSFqF4vN0PthjO4vUc%2b2NwfQSfPLUZCBmPw6kyYsu9TM4pdKpztLZlaCce9WnPYYOyQt4lAR0YnDzaI70pGr6jbL1Anf7cwc3sTnQu63Yk6D%2fYoytfFqwZym8Enr5LbB%2fxtM6G81%2ffnrlzDefkc3xm%2b2jURbeDVXvfv4iVr1pXxmkfl%2bapi9Vt5mMexbzWnuXhlkjKJhJ4OECEBGJqsoAJBoIiYSwAUVLIUTR0rIBNKpz3a7Akjc%2bJ%2bTbyOXkx%2baaqX6uxXGX7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
 
