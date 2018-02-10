@@ -1,5 +1,5 @@
 
 #EXTM3U
 #EXTINF:-1,AL: News 24
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/603.m3u8$http-refferer=http://localhost
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 
