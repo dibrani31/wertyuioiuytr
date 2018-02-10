@@ -1,5 +1,4 @@
 
 #EXTM3U
 #EXTINF:-1,AL: RTV 21 Popullore
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/613.m3u8$http-refferer=http://localhost
-
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwUtygjAAANADMQwk5GMWLJrwEQQKY5XWnTZkiIBKqaFlOLzv7UGudn2npDeKoNhGheieyCVAkkOSfksYXq7Wl4rrYy90O%2f4MB1rxZkALOxoBadxa740MTuzsfOyd3vwH3PBHlW2yez9lmayfSGMwgnbIL4vMTVU67FcHV5Mgbk351N9pRkEbE61RtcC0iMPIbf60SSpQP7BTWjFdnFuqOMs7f23weavmxj4h1SUA7lZMoRDQ82wavW1sRJFrM4KQ7WLCaIBDjpi7zqRZPO3VIrmZTzaVig4hnH3%2fBS2ZbnH7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
