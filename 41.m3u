@@ -1,5 +1,5 @@
 
 #EXTM3U
 #EXTINF:-1,AL: RTV 21 Mix HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/612.m3u8$http-refferer=http://localhost
-
+#EXTINF:-1 tvg-logo="", RTV21 MIX
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAPMmaCEB48EJftmrWkpV1vslq7rkE1Ynx8zyFox%2bu5M5ZYkLLPKu5zeg9SpY2bNBcO8IrsUz3RMwjCr2RYhTKv0bhbg68gXD76%2fNKMzyB5KS9yu53NwaM9%2ft%2bkzqjuZI9xyH%2f0vUrHZVik0nGuT8Hc0WiUovrWMiZm0GbkQa0UuLBkyJPIL2EA8%2blaf2xTNfPAXeJTyboGFS23j1xXLjFc%2fmoIHUHT9dCRirGqaTIKHFOGCALZMiCUgW5YyNN9F1rgmGiNYbD1esz8IYmiWSyhyW37DZaxXRH7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
