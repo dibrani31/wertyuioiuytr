@@ -1,5 +1,6 @@
 
 #EXTM3U
 #EXTINF:-1,AL: Vizion Plus HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/621.m3u8$http-refferer=http://localhost
+#EXTINF:-1 tvg-logo="", Vizion Plus
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwclygjAAANAP6jAmIRsHDhCFBgEFhkVuQtHKZgW1JcPH9z1XQhAVXUaDZbJ4UCnW%2bbbX9IfpbKVPOcIW6gHdeN2iwKJeryipw6znXzPsEUQZ%2fUbhkb%2fjeyU4utmWcbrOibuL0ipQc2nFOlVnnQyyU4RTTwTzwNzTUsUXA479u%2fFH53iF5QPlG16EpEV1yj8GmxRtftvfHWE%2fAdEr5g7kgmtzDSdRupasA9k3idb7K2FICKTrGnMsrmGGgWZQjDVAqMG2ZGdjA6zGp0oPPH9Iuf1DM3j%2f4v1PEpnmP6Hspkv7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
 
