@@ -1,5 +1,5 @@
 
 #EXTM3U
 #EXTINF:-1,AL: Top Channel HD
-httphost://$http-raw=http://163.172.89.151:1234/live/1/2/554.m3u8$http-refferer=http://localhost
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwdtyRDAAANAPMoZGiDx4ULc1LktXCW%2fLsrqNe6TV8fE9h4aV5Jphv1VmsvK746lFSOrJHAbY9vDL1TiTGiEAFepqFqW2jUv%2fu9bhx40eumrTNZlmmjck8yNUuvukPzgBSyuAsawGJOVx4nWEvdie54gCxpJRQQBz67bYmtIX4Bnc5Qf%2bbOjfHKV854Kjj1n3XKd5fXOOdpTiq7VUlWn9bsbZrejiR4vn5mSjQQFPFQHLAooiItfURYigLGINQlFWNYxs1XmHWD4TcrnGUzaW3evwSZyubTTvP4bxDwUr2wH7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
 
